@@ -170,13 +170,13 @@ bracket, `****` P<1e-5 (see the thresholds in the notebook).
 
 ---
 
-## Citation
+<!-- ## Citation
 
 If you use this code or data, please cite:
 
 ```
 <ADD BIBTEX / CITATION HERE>
-```
+``` -->
 
 ## License
 
