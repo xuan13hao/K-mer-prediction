@@ -8,7 +8,6 @@ counts** (KMC) — and train machine-learning classifiers to predict clinical
 response (and progression-free survival, PFS) across three independent
 non-small-cell lung cancer (NSCLC) cohorts.
 
-> This repository accompanies the publication *<ADD PAPER TITLE / DOI HERE>*.
 
 ---
 
