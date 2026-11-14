@@ -42,10 +42,12 @@ K-mer-prediction/
     └── results/              # (empty) prediction outputs are written here
 ```
 
-**The processed datasets are NOT included in this repository.** They are a
-controlled research asset, available from the authors upon reasonable request.
-See [data/README.md](data/README.md) for how to obtain them and where to place
-them.
+**The processed datasets are NOT stored in this repository** (to keep it
+lightweight). Download them from the link below and unzip into `data/`:
+
+> **https://cbb.ittc.ku.edu/software/kmer/data.zip**
+
+See [data/README.md](data/README.md) for the file list and layout.
 
 ---
 
@@ -69,12 +71,14 @@ SRA Toolkit.
 ## Data
 
 The processed datasets (sample metadata, taxonomic / Pfam / KEGG / k-mer count
-matrices, and prediction outputs) are a **controlled research asset and are not
-distributed with this repository.** They are available from the authors **upon
-reasonable request**; raw reads are also on NCBI (BioProjects below).
+matrices, and pre-computed prediction outputs) are **not stored in git** because
+of their size. Download the archive and unzip it into `data/`:
 
-Once obtained, place the files in `data/` so the scripts can find them. See
-[data/README.md](data/README.md) for the full file list and instructions.
+> **https://cbb.ittc.ku.edu/software/kmer/data.zip**
+
+(Paste the link into any browser.) Raw sequencing reads are also available from
+NCBI (BioProjects below). See [data/README.md](data/README.md) for the full file
+list and the expected layout.
 
 ---
 

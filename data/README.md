@@ -1,17 +1,20 @@
 # `data/` — data availability
 
 The processed datasets used in this study (sample metadata, taxonomic / Pfam /
-KEGG / k-mer count matrices, and the pre-computed prediction outputs) are a
-**controlled research asset and are NOT distributed with this repository.**
+KEGG / k-mer count matrices, and the pre-computed prediction outputs) are **not
+stored in this git repository** because of their size.
 
 ## How to obtain the data
 
-The data are **available from the authors upon reasonable request**. Please
-contact the corresponding author (see the paper) with a short description of
-your intended use. Access is granted on a per-application basis.
+Download the archive and unzip its contents directly into this `data/` folder:
+
+> **https://cbb.ittc.ku.edu/software/kmer/data.zip**
+
+(Copy-paste the link into any web browser.)
 
 Raw sequencing reads can also be obtained directly from NCBI under the
-following BioProjects:
+following BioProjects, and re-processed into feature tables using the scripts in
+[../preprocess/](../preprocess/):
 
 | Cohort | BioProject  |
 |--------|-------------|
@@ -19,14 +22,10 @@ following BioProjects:
 | DS2    | PRJEB22863  |
 | DS3    | PRJNA751792 |
 
-and re-processed into feature tables using the scripts in
-[../preprocess/](../preprocess/).
+## Expected files
 
-## Where to put the files once you receive them
-
-After you obtain the processed tables, place them in this `data/` folder so the
-scripts can find them (every script resolves this folder as `../data`). The
-expected files are:
+Every script resolves this folder as `../data`, so keep the layout intact after
+unzipping. The expected files are:
 
 | File | Format | Description |
 |------|--------|-------------|
