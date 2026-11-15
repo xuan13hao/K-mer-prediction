@@ -16,7 +16,7 @@ non-small-cell lung cancer (NSCLC) cohorts.
 ```
 K-mer-prediction/
 ├── README.md                 # this file
-├── LICENSE                   # MIT (edit the copyright holder)
+├── LICENSE                   # 
 ├── requirements.txt          # Python dependencies
 ├── preprocess/               # Step 1 — raw reads → feature tables
 │   ├── README.md             #   detailed preprocessing/annotation protocol
