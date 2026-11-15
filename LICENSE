@@ -1,41 +1,69 @@
-Academic Non-Commercial License
+Academic Non-Commercial Software License
+Version 1.0
 
-Copyright (c) 2026 Jun Zhang
+Copyright (c) 2026 Jun Zhang. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person or non-profit
-institution obtaining a copy of this software and associated documentation
-files (the "Software"), to use, copy, modify, and distribute the Software, and
-to publish results obtained with it, solely for academic research, teaching,
-and other non-commercial purposes, subject to the following conditions:
+1. Definitions
+   "Licensor" means the copyright holder named above.
+   "Software" means the source code, trained models, data files and
+   documentation distributed with this license, and any part of them.
+   "Licensee" means any individual or non-profit academic or research
+   institution that obtains the Software.
+   "Non-Commercial Purpose" means academic research, teaching, or personal
+   study that is not intended for, or directed toward, commercial advantage or
+   monetary compensation.
 
-1. The above copyright notice and this permission notice shall be included in
-   all copies or substantial portions of the Software.
+2. Grant of Rights
+   Subject to the terms of this license, the Licensor grants the Licensee a
+   free, non-exclusive, non-transferable, worldwide license to use, reproduce,
+   and modify the Software, and to share the Software or modified versions of
+   it with others, in each case solely for Non-Commercial Purposes.
 
-2. The Software, and any modified version or derivative work, may not be used
-   for any commercial purpose without prior written permission from the
-   copyright holder. Commercial purposes include, but are not limited to:
-   (a) incorporation into, or use in the development or validation of, a
-       commercial product or service, including diagnostic assays or
-       microarrays;
-   (b) provision of paid testing, diagnostic, or analytical services;
-   (c) sale, sublicensing, or rental of the Software; and
-   (d) use by or on behalf of a for-profit entity.
+3. Restrictions
+   The Licensee may not, without the Licensor's prior written agreement:
+   (a) use the Software, or any modified version or derivative work, for any
+       commercial purpose, including incorporation into a product or service,
+       or use in the development or validation of a commercial diagnostic
+       assay or microarray;
+   (b) provide paid testing, diagnostic, or analytical services using the
+       Software;
+   (c) sell, rent, sublicense, or otherwise transfer the Software for
+       consideration; or
+   (d) use the Software by or on behalf of a for-profit entity.
 
-3. Modified versions must carry a prominent notice stating that they have been
-   changed, and must be distributed only under the terms of this license.
+4. Redistribution
+   Any copy or modified version of the Software that the Licensee shares must
+   (a) include this license in full and keep all copyright notices intact;
+   (b) clearly mark any changes made; and
+   (c) be shared under this license only.
 
-4. Publications that use the Software should cite:
+5. Attribution
+   Publications, presentations, or other works that report results obtained
+   with the Software should cite:
    Zhang, J. et al. [Title]. Nature Medicine (2026).
 
-5. The Software has not been validated for clinical use and must not be used
-   for diagnosis, treatment decisions, or other patient management.
+6. Not for Clinical Use
+   The Software is a research tool. It has not been validated for clinical
+   use and must not be used to diagnose, treat, or make decisions about the
+   care of any patient.
 
-For commercial licensing inquiries, contact: [email address]
+7. No Warranty
+   The Software is provided on an as-is basis. The Licensor makes no promise
+   that the Software is accurate, complete, free of errors, fit for any
+   particular use, or free from claims by third parties. The Licensee uses the
+   Software at its own risk.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+8. Limitation of Liability
+   To the fullest extent permitted by law, the Licensor shall not be
+   responsible for any loss or damage of any kind, whether direct or indirect,
+   arising from the use of, or inability to use, the Software, even if the
+   Licensor has been told that such loss or damage was possible.
+
+9. Termination
+   This license ends automatically if the Licensee breaches any of its terms.
+   On termination, the Licensee must stop using the Software and delete all
+   copies in its possession.
+
+10. Commercial Licensing
+    Commercial use requires a separate written agreement with the Licensor.
+    Inquiries: [email address]
